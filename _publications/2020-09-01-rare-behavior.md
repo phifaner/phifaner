@@ -2,7 +2,7 @@
 title: "Fast and parameter-light rare behavior detection in maritime trajectories"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper proposed a parameter-light approach to detect anomalous vessels in the sea.'
 date: 2020-09-01
 venue: 'Information Processing & Management'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0306457319315481'
