@@ -2,7 +2,7 @@
 title: "Adaptively Exploring Population Mobility Patterns in Flow Visualization"
 collection: publications
 permalink: /publication/2017-06-20-adaptive-vector
-excerpt: 'This paper is about extract major flows from population movement with visualization in vector fields'
+excerpt: 'This paper is about extract major flows from population movement with visualization in vector fields approach.'
 date: 2017-06-20
 venue: 'IIEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'hhttps://ieeexplore.ieee.org/document/7954057'
