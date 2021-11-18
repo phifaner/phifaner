@@ -1,7 +1,7 @@
 ---
 title: "Privacy Preserved Trajectory Data Publishing"
 collection: projects
-type: "Research and Develop"
+type: "Research and Development"
 permalink: /projects/2020-ncript-pptdp
 venue: "School of Computing, NUS"
 date: 2020-03-01
