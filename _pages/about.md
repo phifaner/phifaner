@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Wang Fei's personal website"
+title: "Hello and Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am a Research Fellow at School of Computing, NUS, received Ph.D diploma at Zhejiang University, China in 2016. 6 years’ big data engineering experience in Geo data and social media data, as well as 10+ years’ programming and research expertise on computer science. Strong background in Java, Python, C/C++, CUDA, D3.js across data management, machine learning, visualization, and parallel algorithms, etc.
+I am a Research Fellow at School of Computing, NUS, received Ph.D diploma at Zhejiang University, China in 2016. My research interests focus on visual data analytics systems. To develop such a instant-response visual system, real-time data management algorithms are devised to work together with the STAR machine learning and deep learning models. 
+
+<!-- I am open to seek an inderstrail position of a big data engineer or a big data scientist. If you have any information, do not hesitate to let me know. -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
