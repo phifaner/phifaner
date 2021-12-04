@@ -8,8 +8,6 @@ date: 2017-01-01 ~ 2018-06-30
 location: "Singapore"
 ---
 
-Introduction
-======
 The smart grid is clearly making the power system more intelligent, with much more sensing and embedded automatic control. Therefore, a large scale power system is usually consisted of ten thousands of buses and each bus has 5+ variates. The large scale power system makes the grid even more complex and creating the need for continually improved tools to help humans design and operate the smart grid of tomorrow. 
 
 Wide-area power system visualization is crucial in order for operators to respond effectively during disturbances and for planners to have a better understanding of the systems they are designing. We developed a visual analytics system with 10+ visualization techniques, including pie charts, animation, contouring, time-varying graphs, multi-layer geographic-based displays, image blending, and trends arrows. 

@@ -8,10 +8,7 @@ date: 2014-08-01~2016-04-01
 location: "Shanghai, China"
 ---
 
-Lead analyst on hairdresser data to discover clients' consumption level and recommend him/her hairstyles and cosmetics. 
-Devise multiple user-based collaborative filtering algorithms for recommendation w.r.t 30+ dimensions.
-Implement a distributed data extraction and transforming system using Java on MonetDB. 
-Our system precision is more than 86%. 
+Based on collecting consumption records of ten thousands customers, we developed an application to recommend appropriate hairstyles and cosmetics to customers of their intrest. We leveraged multiple user-based collaborative filtering algorithms for recommending w.r.t 30+ dimensions. And the overall performance was up to 86\%. Additionally, an ETL tool and data managment system were developed based on MonetDB. After running for 19 months, the startup company was bought by an inverstor.
 
 Role
 ======
