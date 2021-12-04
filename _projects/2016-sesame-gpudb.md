@@ -4,7 +4,7 @@ collection: projects
 type: "Research"
 permalink: projects/2016-sesame-gpudb
 venue: "National University of Singapore"
-date: 2016-08-01~2018-01-01
+date: 2016-08-01~2018-08-01
 location: "Singapore"
 ---
 

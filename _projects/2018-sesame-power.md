@@ -12,7 +12,7 @@ The smart grid is clearly making the power system more intelligent, with much mo
 
 Wide-area power system visualization is crucial in order for operators to respond effectively during disturbances and for planners to have a better understanding of the systems they are designing. We developed a visual analytics system with 10+ visualization techniques, including pie charts, animation, contouring, time-varying graphs, multi-layer geographic-based displays, image blending, and trends arrows. 
 
-The product has been deployed in many power grid departments. Specifically, by leveraging clustering algorithms, a department has utilized the visual analytics system to figure out root cause of failures. Some departments implemented an interactive planning tool based on the system.
+The product has been deployed in many state grid departments in China. Specifically, by leveraging clustering algorithms, a department has utilized the visual analytics system to figure out root cause of failures. Some departments implemented an interactive planning tool based on the system.
 
 Role
 ======
@@ -22,5 +22,10 @@ Team
 ======
 6 members
 
+Power Grid Network
+---
 <img src='../images/power-planning.png'>
+
+Heatmap of Voltage Distribution
+---
 <img src='../images/wide-area-power.png'>

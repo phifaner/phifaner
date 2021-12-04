@@ -18,4 +18,5 @@ Team
 ======
 2 members work closely with DSTA
 
-<img src='../images/ncript-ppdp.png'>
+Rare Behaviors under Different Settings
+<img src='../images/rare-behavior.jpg'>
