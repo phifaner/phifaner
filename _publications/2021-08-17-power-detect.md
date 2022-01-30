@@ -2,7 +2,7 @@
 title: "Progressively Detect Faults in a Large Power System: A Visual Analytics Approach"
 collection: publications
 permalink: /publication/2021-08-17-power-detect
-excerpt: 'This paper proposed a progressively visual analytics approach to detect root faults in a large power system. (Best Paper Award)'
+excerpt: 'This paper proposed a progressively visual analytics approach to detect root faults in a large power system. (<b>Best Paper Award</b>)'
 date: 2021-08-17
 venue: '2021 IEEE 4th International Electrical and Energy Conference (CIEEC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9510401'
