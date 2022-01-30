@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at School of Computing, NUS, received Ph.D diploma at Zhejiang University, China in 2016. My research interests focus on visual data analytics systems. To develop such a instant-response visual system, real-time data management algorithms are devised to work together with the STAR machine learning and deep learning models. 
+I am a Research Fellow at School of Computing, NUS, received Ph.D diploma at Zhejiang University, China in 2016. My research interests focus on interactive visual data analytics. To develop such a instant-response visual analytics system, real-time data management algorithms are devised to work with the STAR machine learning and deep learning models. 
 
 <!-- I am open to seek an inderstrail position of a big data engineer or a big data scientist. If you have any information, do not hesitate to let me know. -->
 
